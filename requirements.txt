@@ -1,0 +1,8 @@
+numpy
+torch
+scikit-learn
+matplotlib
+transformers
+fastapi
+uvicorn
+gensim
