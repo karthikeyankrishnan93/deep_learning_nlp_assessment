@@ -44,4 +44,4 @@ python task3_classical_nlp.py
 python task4_transformers_fastapi.py
 
 3. Open your Google Chrome browser and test the live server at:
-http://127.0.0
+http://127.0.0.1:8000/docs
